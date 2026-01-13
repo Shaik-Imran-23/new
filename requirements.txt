@@ -5,3 +5,5 @@ pip install transformers accelerate
 pip install ultralytics opencv-python pdf2image torch pillow
 # For LLaVA (if you want more accuracy + have GPU)
 pip install git+https://github.com/haotian-liu/LLaVA.git
+sudo apt update
+sudo apt install -y libvips libvips-dev
