@@ -1,4 +1,5 @@
 pip install qwen-vl-utils
+pip install pyvips
 pip install einops
 pip install transformers accelerate
 pip install ultralytics opencv-python pdf2image torch pillow
